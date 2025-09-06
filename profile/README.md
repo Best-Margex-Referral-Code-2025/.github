@@ -34,7 +34,7 @@ Pairing these features with the referral code (77481904) gives you both a reliab
 
 Getting started with Margex and claiming your rewards is simple:
 
-Visit the official Margex website or download the app.
+Visit the official Margex website "https://margex.com/?rid=77481904"
 
 Click on Sign Up and create an account.
 
